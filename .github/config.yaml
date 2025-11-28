@@ -1,0 +1,10 @@
+project: gerrit
+tools:
+  - libphonenumber-js
+  - nodejs
+  - termux
+  - git
+metadata:
+  author: ahmedouardi7
+  license: Apache-2.0
+  updated: 2025-11-28
